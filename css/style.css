@@ -1,10 +1,10 @@
 #roll{
-    background-color: rgb(10, 133, 133);
+    background-color: rgb(72, 197, 176);
     color: white;
 }
 
 #outputbox{
-    border: 2px solid black;
+    border: 2px solid rgb(77, 77, 77);
     padding: 20px;
     border-radius: 25px;
 }
