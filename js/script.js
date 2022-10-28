@@ -34,4 +34,4 @@ function getComputerChoice() {
 function displayUserScore() {
   getComputerChoice();
   document.getElementById("outputbox").innerHTML = diceNumber;
-}
+};
